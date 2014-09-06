@@ -1,4 +1,4 @@
 tera
 ====
 
-Another Node Framework
+Hexagonal Node Framework
