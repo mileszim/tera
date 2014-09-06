@@ -1,0 +1,24 @@
+{
+  "name": "tera",
+  "version": "0.0.0",
+  "description": "Another Node Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mileszim/tera.git"
+  },
+  "keywords": [
+    "framework",
+    "app",
+    "express"
+  ],
+  "author": "Miles Zimmerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mileszim/tera/issues"
+  },
+  "homepage": "https://github.com/mileszim/tera"
+}
