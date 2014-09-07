@@ -1,0 +1,13 @@
+/**
+ * Application CSS Manifest
+ *
+ * Vendor
+ *= require bootstrap
+ *
+ * App
+ *= require_tree .
+ */
+
+body {
+  padding-top: 50px;
+}

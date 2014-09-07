@@ -44,6 +44,7 @@
     "express": "^4.8.8",
     "express-session": "^1.7.6",
     "figaro": "^0.1.9",
+    "fs-extra": "^0.11.1",
     "jugglingdb": "^0.2.14",
     "jugglingdb-mongodb": "0.0.4-4",
     "jugglingdb-mysql": "0.0.8",

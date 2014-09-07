@@ -19,6 +19,10 @@ program
 
 
 // Print help if nil
+function nil() {
+  if (!program.runningCommand) program.help();
+}
+
 program
   .command('*')
-  .action(program.help());
+  .action(nil());
