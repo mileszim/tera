@@ -20,5 +20,27 @@
   "bugs": {
     "url": "https://github.com/mileszim/tera/issues"
   },
-  "homepage": "https://github.com/mileszim/tera"
+  "homepage": "https://github.com/mileszim/tera",
+  "dependencies": {
+    "body-parser": "^1.8.0",
+    "colors": "^0.6.2",
+    "commander": "^2.3.0",
+    "connect-assets": "^4.3.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.3.3",
+    "csurf": "^1.6.1",
+    "ejs": "^1.0.0",
+    "express": "^4.8.8",
+    "express-session": "^1.7.6",
+    "figaro": "^0.1.9",
+    "jugglingdb": "^0.2.14",
+    "jugglingdb-mongodb": "0.0.4-4",
+    "jugglingdb-mysql": "0.0.8",
+    "jugglingdb-postgres": "^0.1.0",
+    "jugglingdb-redis": "0.0.2-2",
+    "pluralize": "^1.0.1",
+    "prompt": "^0.2.13",
+    "redis": "^0.12.1",
+    "winston": "^0.7.3"
+  }
 }
