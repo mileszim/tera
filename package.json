@@ -3,6 +3,13 @@
   "version": "0.0.0",
   "description": "Hexagonal Node Framework",
   "main": "index.js",
+  "bin": {
+    "tera": "./bin/tera.js",
+    "tera-new": "./bin/tera-new.js",
+    "tera-generate": "./bin/tera-generate.js",
+    "tera-destroy": "./bin/tera-destroy.js",
+    "tera-server": "./bin/tera-server.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +20,11 @@
   "keywords": [
     "framework",
     "app",
-    "express"
+    "express",
+    "mvc",
+    "orm",
+    "rails",
+    "tera"
   ],
   "author": "Miles Zimmerman",
   "license": "MIT",
