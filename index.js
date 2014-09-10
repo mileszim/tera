@@ -1,2 +1,4 @@
-console.log('Tera is not functional right now.');
-process.exit(1);
+/**
+ * Tera
+ */
+module.exports = require('./lib/server');
